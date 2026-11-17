@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=print(%22Hola%2C+soy+Jonatan+%F0%9F%91%8B%22);Desarrollador+Web+Full+Stack;while+alive%3A+code()" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=print(%22Hi%2C+I'm+Jonatan+%F0%9F%91%8B%22);Full+Stack+Web+%26+Mobile+Developer;while+alive%3A+code()" alt="Typing SVG" />
 
 </div>
 
@@ -8,29 +8,31 @@
 class Developer:
     def __init__(self):
         self.name     = "Jonatan"
-        self.role     = "Desarrollador Web Full Stack"
-        self.location = "[Ciudad], Perú 🇵🇪"
+        self.role     = "Full Stack Web & Mobile Developer"
+        self.location = "[City], Peru 🇵🇪"
 
     def about(self):
-        return ("Me gusta crear sistemas que resuelven problemas reales, "
-                "desde el backend y la base de datos hasta la interfaz.")
+        return ("I love building systems that solve real-world problems, "
+                "from the backend and database to web and mobile interfaces.")
 
 me = Developer()
-print(f"Hola, soy {me.name} 👋")
+print(f"Hi, I'm {me.name} 👋")
 print(me.about())
 ```
 
 ```text
 ▶ Output
 ──────────────────────────────────────────────────────────────
-Hola, soy Jonatan 👋
-Me gusta crear sistemas que resuelven problemas reales,
-desde el backend y la base de datos hasta la interfaz.
+Hi, I'm Jonatan 👋
+I love building systems that solve real-world problems,
+from the backend and database to web and mobile interfaces.
 ```
 
 ```python
 print(me.stack)
 ```
+
+<div align="center">
 
 <sub>▶ Output</sub>
 
@@ -43,6 +45,6 @@ print(me.stack)
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<div align="center">
 <sub><code>Process finished with exit code 0</code></sub>
+
 </div>
