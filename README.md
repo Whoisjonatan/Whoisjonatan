@@ -32,9 +32,9 @@ from the backend and database to web and mobile interfaces.
 print(me.stack)
 ```
 
-<div align="center">
-
 <sub>▶ Output</sub>
+
+<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
