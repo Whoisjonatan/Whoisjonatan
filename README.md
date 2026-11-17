@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=print(%22Hi%2C+I'm+Jonatan+%F0%9F%91%8B%22);Full+Stack+Web+%26+Mobile+Developer;while+alive%3A+code()" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=E5E7EB&center=true&vCenter=true&width=650&lines=print(%22Hi%2C+I'm+Jonatan+%F0%9F%91%8B%22);Full+Stack+Web+%26+Mobile+Developer;while+alive%3A+code()" alt="Typing SVG" />
 
 </div>
 
@@ -9,7 +9,7 @@ class Developer:
     def __init__(self):
         self.name     = "Jonatan"
         self.role     = "Full Stack Web & Mobile Developer"
-        self.location = "[City], Peru 🇵🇪"
+        self.location = "Chiclayo, Peru 🇵🇪"
 
     def about(self):
         return ("I love building systems that solve real-world problems, "
