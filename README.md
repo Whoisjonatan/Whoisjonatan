@@ -1,32 +1,59 @@
-# Hola, soy Jonatan 👋
+<div align="center">
 
-[Desarrollador web Full Stack] de [ciudad, Perú]. Me gusta crear sistemas que
-resuelven problemas reales, desde el backend y la base de datos hasta la interfaz.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=print(%22Hola%2C+soy+Jonatan+%F0%9F%91%8B%22);Desarrollador+Web+Full+Stack;while+alive%3A+code()" alt="Typing SVG" />
 
-## 🛠️ Tecnologías
+</div>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```python
+class Developer:
+    def __init__(self):
+        self.name     = "Jonatan"
+        self.role     = "Desarrollador Web Full Stack"
+        self.location = "[Ciudad], Perú 🇵🇪"
 
-## 🚀 Proyecto destacado
+    def about(self):
+        return ("Me gusta crear sistemas que resuelven problemas reales, "
+                "desde el backend y la base de datos hasta la interfaz.")
 
-### [RSU Reciclaje](https://github.com/Whoisjonatan/rsu)
-Sistema de gestión de recolección de residuos: programación de rutas y
-turnos, control de asistencia del personal, seguimiento de vehículos en tiempo
-real, API para app móvil y calificación de rutas por los ciudadanos.
-Desplegable con Docker.
+me = Developer()
+print(f"Hola, soy {me.name} 👋")
+print(me.about())
+```
 
-**Stack:** Laravel · MySQL · JavaScript · Docker
+```text
+▶ Output
+──────────────────────────────────────────────────────────────
+Hola, soy Jonatan 👋
+Me gusta crear sistemas que resuelven problemas reales,
+desde el backend y la base de datos hasta la interfaz.
+```
 
-## 📫 Contacto
+```python
+print(me.stack)
+```
 
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Correo: [tu-correo]
+<sub>▶ Output</sub>
 
-## 📊 Estadísticas
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Whoisjonatan&show_icons=true&theme=default)
+```python
+print(me.contact())
+```
+
+```text
+▶ Output
+──────────────────────────────────────────────────────────────
+💼 LinkedIn  →  linkedin.com/in/[tu-perfil]
+📫 Correo    →  [tu-correo]
+```
+
+<div align="center">
+<sub><code>Process finished with exit code 0</code></sub>
+</div>
